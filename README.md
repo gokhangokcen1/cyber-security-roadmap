@@ -18,19 +18,20 @@
   <li> <a href="https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/">Professor Messor CompTIA N10-007 Network+  </a> </li>
   <li> <a href="https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/">Professor Messor CompTIA N10-008 Network+</a> </li>
   <li> <a href="https://www.linkedin.com/learning/paths/prepare-for-the-comptia-network-plus-n10-007-certification"> Prepare for the CompTIA Network+ (N10-007) Certification</a> </li>
+  <li> <a href="https://youtu.be/qiQR5rTSshw">Computer Networking Course - Network Engineering [CompTIA Network+ Exam Prep] | "freecodecamp.org" Youtube Channel</a></li>
 </ul>
 
 <h2>Cisco</h2>
 <ul>
   <li> <a href="https://www.netacad.com/courses/networking/networking-essentials">Networking Essentials</a> </li>
   <li> <a href="https://www.netacad.com/courses/networking/ccna-bridging">CCNA Bridging</a> </li>
-    
+  <li> <a href="https://www.youtube.com/watch?v=XgmauclCXAU&list=PLEZ7_TnHGBZQBkP1gSkNpq2FMj_6vqyfq&index=10"> Cisco CCNP ENCOR Primer - Full 8+ Hour Course | "Paul Browning" Youtube Channel</a></li> 
 </ul>
 
 <h2>Other Network Resources</h2>
 <ul>
   <li> <a href="https://www.geeksforgeeks.org/computer-network-tutorials/">Computer Network Tutorials - GeeksforGeeks</a> </li>
-  <li> <a href="https://youtu.be/qiQR5rTSshw">Computer Networking Course - Network Engineering [CompTIA Network+ Exam Prep] | "freecodecamp.org" Youtube Channel</a></li>
+
   
 </ul>
 
