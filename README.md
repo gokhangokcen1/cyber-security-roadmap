@@ -46,24 +46,24 @@
   <li> <a href="https://www.youtube.com/watch?v=qlK174d_uu8&list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj">Zero to Hero: A Practical Network Penetration </a></li>
   <li> <a href="https://www.youtube.com/watch?v=JZN3JhoAdWo&list=PLLKT__MCUeiyxF54dBIkzEXT7h8NgqQUB">Pentesting for n00bs</a></li>
   <li> <a href="https://www.youtube.com/watch?v=ZBi8Qa9m5c0&list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL">Web Application Pentesting</a></li>
-  <li> <a href="https://youtu.be/WnN6dbos5u8">Full Ethical Hacking Course - Beginner Network Penetration Testing (2019)</a>/li>
+  <li> <a href="https://youtu.be/WnN6dbos5u8">Full Ethical Hacking Course - Beginner Network Penetration Testing (2019)</a></li>
 </ul>
 
 <h2>CompTIA Pentest+</h2>
 <ul>
-  <li> <a href="https://davistechmedia.com/comptia-pentest-pt0-001-study-notes/">CompTIA PenTest+ PT0-001 Study Notes | by davistechmedia.com </a>/li>
-  <li> <a href="https://www.youtube.com/playlist?list=PLqM63j87R5p4olmWpzqaXMhEP2zEnQhPD">TryHackMe COMPTIA Pentest+ Pathway | "Motasem Hamdan" Youtube Channel </a>/li>
+  <li> <a href="https://davistechmedia.com/comptia-pentest-pt0-001-study-notes/">CompTIA PenTest+ PT0-001 Study Notes | by davistechmedia.com </a></li>
+  <li> <a href="https://www.youtube.com/playlist?list=PLqM63j87R5p4olmWpzqaXMhEP2zEnQhPD">TryHackMe COMPTIA Pentest+ Pathway | "Motasem Hamdan" Youtube Channel </a></li>
 </ul>
 
 <h2>freecodecamp.org</h2>
 <ul>
-  <li> <a href="https://youtu.be/3Kq1MIfTWCE">Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019) by The Cyber Mentor</a>/li>
-  <li> <a href="https://youtu.be/2_lswM1S264">Ethical Hacking 101: Web App Penetration Testing - a full course for beginners</a>/li>
+  <li> <a href="https://youtu.be/3Kq1MIfTWCE">Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019) by The Cyber Mentor</a></li>
+  <li> <a href="https://youtu.be/2_lswM1S264">Ethical Hacking 101: Web App Penetration Testing - a full course for beginners</a></li>
 </ul>
 
 <h2>Other Resources</h2>
 <ul>
-  <li> <a href="https://youtu.be/dz7Ntp7KQGA"> Ethical Hacking Full Course - Learn Ethical Hacking in 10 Hours | Ethical Hacking Tutorial | Edureka Youtube Channel </a>/li>
+  <li> <a href="https://youtu.be/dz7Ntp7KQGA"> Ethical Hacking Full Course - Learn Ethical Hacking in 10 Hours | Ethical Hacking Tutorial | Edureka Youtube Channel </a></li>
 </ul>
 
 
