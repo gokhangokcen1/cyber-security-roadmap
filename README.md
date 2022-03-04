@@ -68,7 +68,7 @@
   <li> <a href="https://youtu.be/2_lswM1S264">Ethical Hacking 101: Web App Penetration Testing - a full course for beginners</a></li>
 </ul>
 
-<h2>Security</h2>
+<h2>CompTIA Security+</h2>
 <ul>
   <li> <a href="https://youtu.be/O4pJeXgOJDs"> CompTIA Security+ Full Course | My CS Youtube Channel </a></li>
 </ul>
