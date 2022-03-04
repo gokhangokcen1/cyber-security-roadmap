@@ -70,7 +70,7 @@
 
 <h2>Other Resources</h2>
 <ul>
-  <li> <a href="https://youtu.be/dz7Ntp7KQGA"> Ethical Hacking Full Course - Learn Ethical Hacking in 10 Hours | Ethical Hacking Tutorial | Edureka Youtube Channel </a></li>
+  <li> <a href="https://youtu.be/O4pJeXgOJDs"> CompTIA Security+ Full Course | My CS Youtube Channel </a></li>
 </ul>
 
 
