@@ -55,6 +55,13 @@
   <li> <a href="https://www.youtube.com/playlist?list=PLqM63j87R5p4olmWpzqaXMhEP2zEnQhPD">TryHackMe COMPTIA Pentest+ Pathway | "Motasem Hamdan" Youtube Channel </a></li>
 </ul>
 
+<h2>Certified Ethical Hacker (CEH)</h2>
+<ul>
+  <li> <a href="https://www.danielgorbe.com/en/tags/ceh/">Certified Ethical Hacker (CEH) Notes | by danielgorbe.com </a></li>
+
+</ul>
+
+
 <h2>freecodecamp.org</h2>
 <ul>
   <li> <a href="https://youtu.be/3Kq1MIfTWCE">Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019) by The Cyber Mentor</a></li>
