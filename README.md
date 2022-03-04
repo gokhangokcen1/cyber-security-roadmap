@@ -1,6 +1,5 @@
 <h1>Cyber Security Free Resources</h1>
-![resim](https://user-images.githubusercontent.com/63648396/156825956-6e7e6d15-2e4d-4606-8840-831bd98504bf.png)
-<a href=""></a>
+<a href="https://github.com/gokhangokcen1/cyber-security-roadmap/blob/main/photos/certifications.png">pauljerimy.com</a>
   
 <h1>Basic Information Technology and Computer Science Knowledge</h1>
 <h2>CompTIA A+</h2>
