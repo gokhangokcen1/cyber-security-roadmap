@@ -42,7 +42,7 @@
 
 <h1>Penetration Testing</h1>
 
-<h2>The Cyber Mentor - Heat Adams</h2>
+<h2>The Cyber Mentor - Heath Adams</h2>
 <ul>
   
   <li> <a href="https://www.youtube.com/watch?v=fNzpcB7ODxQ&list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47&index=1">Full-Length Hacking Courses</a></li>
