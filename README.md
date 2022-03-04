@@ -76,6 +76,12 @@
   <li> <a href="https://youtu.be/O4pJeXgOJDs"> CompTIA Security+ Full Course | My CS Youtube Channel </a></li>
 </ul>
 
+<h2>Cryptography</h2>
+<ul>
+ <li><a href="https://www.garykessler.net/library/crypto.html"> An Overview of Cryptography | by Gary C. Kessler</a></li>
+ <li><a href="https://www.youtube.com/watch?v=j_8PLI_wCVU&list=PL7T06JEc5PF6Xbrs_1ltXPSYi5qWL9pBm&index=3"> Cryptography Full Course Part 1-2 | 
+"Nerd's lesson" Youtube Channel (just first and second video)</a></li>
+</ul>
 
 
   
