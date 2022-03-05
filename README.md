@@ -64,6 +64,11 @@
 
 </ul>
 
+<h2>OSCP</h2>
+<ul>
+<li><a href="">OSCP notes github | </a> </li>
+</ul>
+
 
 <h2>freecodecamp.org</h2>
 <ul>
