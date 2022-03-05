@@ -84,6 +84,7 @@
 <h2>OSCE</h2>
 <ul>
   <li> <a href="https://github.com/mdisec/osce-preparation"> OSCE Preparation | by mdisec </a></li>
+ <li> <a href="https://github.com/CyberSecurityUP/OSCE-Complete-Guide"> OSCE³ Study Guide Awesome (OSWE/OSEP/OSED)| by CyberSecurityUP </a></li>
 </ul>
 
 <h1>Cryptography</h1>
