@@ -92,6 +92,13 @@
  <li><a href="https://www.garykessler.net/library/crypto.html"> An Overview of Cryptography | by Gary C. Kessler</a></li>
  <li><a href="https://www.youtube.com/watch?v=j_8PLI_wCVU&list=PL7T06JEc5PF6Xbrs_1ltXPSYi5qWL9pBm&index=3"> Cryptography Full Course Part 1-2 | 
 "Nerd's lesson" Youtube Channel (just first and second video)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=C7vmouDOJYM&list=PLEiEAq2VkUULgKbiq9J4z517w8RV3-yJe"> Cryptography Training 🔥[2022 Updated] | by "Simplilearn" Youtube Channel</a></li>
+</ul>
+
+<h1>CISSP</h1>
+<ul>
+ <li><a href="https://www.youtube.com/watch?v=M1_v5HBVHWo"> CISSP Certification Course – PASS the Certified Information Security Professional Exam! | by "freecodecamp.org" Youtube Channel</a></li>
+
 </ul>
 
 
