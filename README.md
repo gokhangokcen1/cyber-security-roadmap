@@ -66,7 +66,7 @@
 
 <h2>OSCP</h2>
 <ul>
-<li><a href="">OSCP notes github | </a> </li>
+<li><a href="https://github.com/AidenPearce369/OSCP-Notes">OSCP notes github | by AidenPearce369</a> </li>
 </ul>
 
 
