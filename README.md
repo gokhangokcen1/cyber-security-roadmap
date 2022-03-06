@@ -20,7 +20,7 @@
 <ul>
   <li> <a href="https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/">Professor Messor CompTIA N10-007 Network+  </a> </li>
   <li> <a href="https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/">Professor Messor CompTIA N10-008 Network+</a> </li>
-  <li> <a href="https://www.linkedin.com/learning/paths/prepare-for-the-comptia-network-plus-n10-007-certification"> Prepare for the CompTIA Network+ (N10-007) Certification</a> </li>
+  <li> <a href="https://www.linkedin.com/learning/paths/prepare-for-the-comptia-network-plus-n10-007-certification"> Prepare for the CompTIA Network+ (N10-007) Certification | LinkedIn Learning </a> </li>
   <li> <a href="https://youtu.be/qiQR5rTSshw">Computer Networking Course - Network Engineering [CompTIA Network+ Exam Prep] | "freecodecamp.org" Youtube Channel</a></li>
 </ul>
 
