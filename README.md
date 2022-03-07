@@ -78,10 +78,32 @@
   
 </ul>
 
+<h2>OSWE/AWAE</h2>
+<ul>
+  <li> <a href="https://rayhan0x01.github.io/web/2021/04/12/awae-web-300-oswe-guide-2021.html">Just another AWAE / WEB-300 / OSWE guide in 2021 | by "rayhan0x01" Github </a></li>
+  <li> <a href="https://infosecwriteups.com/cert-oswe-exam-review-and-tips-ft-no-developer-background-candidate-1dad7f545155">[CERT] OSWE Exam Review and Tips | by "bigb0ss" in infosecwriteups.com </a></li>
+  <li> <a href="https://github.com/kajalNair/OSWE-Prep">OSWE-Prep | by "kajalNair" Github </a></li>
+  <li> <a href="https://hub.schellman.com/blog/oswe-review-and-exam-preparation-guide">OSWE Review and Exam Preparation Guide | by "Nathan Rague" in schellman.com </a></li>
+  <li> <a href="https://github.com/CyberSecurityUP/OSCE-Complete-Guide"> OSCE³ Study Guide Awesome (OSWE/OSEP/OSED)| by CyberSecurityUP </a></li>
+</ul>
+
+<h2>OSEP</h2>
+<ul>
+  <li> <a href=""> |  </a></li>
+  <li> <a href=""> |  </a></li>
+  <li> <a href=""> |  </a></li>
+  <li> <a href=""> |  </a></li>
+  <li> <a href=""> |  </a></li>
+  <li> <a href=""> |  </a></li>
+  <li> <a href=""> |  </a></li>
+</ul>
+
+
+
 <h2>OSCE</h2>
 <ul>
   <li> <a href="https://github.com/mdisec/osce-preparation"> OSCE Preparation | by mdisec </a></li>
- <li> <a href="https://github.com/CyberSecurityUP/OSCE-Complete-Guide"> OSCE³ Study Guide Awesome (OSWE/OSEP/OSED)| by CyberSecurityUP </a></li>
+  <li> <a href="https://github.com/CyberSecurityUP/OSCE-Complete-Guide"> OSCE³ Study Guide Awesome (OSWE/OSEP/OSED)| by CyberSecurityUP </a></li>
 </ul>
 
 
