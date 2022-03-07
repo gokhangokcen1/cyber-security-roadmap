@@ -78,6 +78,14 @@
   
 </ul>
 
+<h2>OSCE</h2>
+<ul>
+  <li> <a href="https://github.com/mdisec/osce-preparation"> OSCE Preparation | by mdisec </a></li>
+ <li> <a href="https://github.com/CyberSecurityUP/OSCE-Complete-Guide"> OSCE³ Study Guide Awesome (OSWE/OSEP/OSED)| by CyberSecurityUP </a></li>
+</ul>
+
+
+
 
 <h2>freecodecamp.org</h2>
 <ul>
@@ -90,11 +98,7 @@
   <li> <a href="https://youtu.be/O4pJeXgOJDs"> CompTIA Security+ Full Course | My CS Youtube Channel </a></li>
 </ul>
 
-<h2>OSCE</h2>
-<ul>
-  <li> <a href="https://github.com/mdisec/osce-preparation"> OSCE Preparation | by mdisec </a></li>
- <li> <a href="https://github.com/CyberSecurityUP/OSCE-Complete-Guide"> OSCE³ Study Guide Awesome (OSWE/OSEP/OSED)| by CyberSecurityUP </a></li>
-</ul>
+
 
 <h1>Cryptography</h1>
 <ul>
