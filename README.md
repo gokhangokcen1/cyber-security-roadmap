@@ -10,8 +10,10 @@
   <li> <a href="https://www.professormesser.com/free-a-plus-training/a-plus-videos/220-1001-training-course/">Professor Messor 220-1001 Core 1  </a> </li>
   <li> <a href="https://www.professormesser.com/free-a-plus-training/a-plus-videos/220-1002-training-course/">Professor Messor 220-1002 Core 2  </a> </li>
   <li> <a href="https://www.linkedin.com/learning/paths/prepare-for-the-comptia-a-plus-certification-220-1001-and-220-1002"> Prepare for the CompTIA A+ Certification (220-1001 and 220-1002)  </a> </li>
-
   <li> <a href="https://youtu.be/iYRmydayPFs"> CompTIA A+ Certification Full Video Course for Beginners  "Academic Lesson" Youtube Channel </a></li>
+<h2>Fortinet Network Security Expert (NSE) Institute</h2>
+ <li><a href="https://training.fortinet.com/course/index.php/Certification:NSE_1/">Fortinet NSE Courses</a> </li>
+ 
   
 </ul>
 
