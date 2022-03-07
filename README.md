@@ -68,7 +68,14 @@
 
 <h2>OSCP</h2>
 <ul>
-<li><a href="https://github.com/AidenPearce369/OSCP-Notes">OSCP notes github | by AidenPearce369</a> </li>
+  <li><a href="https://github.com/AidenPearce369/OSCP-Notes">OSCP notes github | by AidenPearce369</a> </li>
+  <li><a href="https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md">OSCP Survival Guide | by "AnasAboureada" Github</a> </li>
+  <li><a href="https://oscpnotes.infosecsanyam.in/My_OSCP_Preparation_Notes.html">My OSCP Preparation Notes | by Sanyam Chawla  & Juned</a> </li>
+  <li><a href="https://1modm.github.io/documentation/oscp.html">OSCP notes </a> </li>
+  <li><a href="https://falconspy.medium.com/useful-oscp-notes-commands-d71b5eda7b02">Useful OSCP Notes & Commands | by "FalconSpy" Medium</a> </li>
+  <li><a href="https://sushant747.gitbooks.io/total-oscp-guide/content/">Total OSCP Guide | by "xapax" Github </a> </li>
+  <li><a href="https://guide.offsecnewbie.com/cherrytree-oscp-template">OSCP Templates | by OffSecNewbie.com</a> </li>
+  
 </ul>
 
 
