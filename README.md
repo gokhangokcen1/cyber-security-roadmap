@@ -38,7 +38,6 @@
   <li> <a href="https://www.geeksforgeeks.org/computer-network-tutorials/">Computer Network Tutorials - GeeksforGeeks</a> </li>
   <li> <a href="https://www.youtube.com/watch?v=4Kho3Eeyx1U&list=PLLKT__MCUeiyUKmYaakznsZeU4lZYwt_j">Networking for Ethical Hackers | "The Cyber Mentor" Youtube Channel</a></li>
 
-
 </ul>
 
 
@@ -89,13 +88,8 @@
 
 <h2>OSEP</h2>
 <ul>
-  <li> <a href=""> |  </a></li>
-  <li> <a href=""> |  </a></li>
-  <li> <a href=""> |  </a></li>
-  <li> <a href=""> |  </a></li>
-  <li> <a href=""> |  </a></li>
-  <li> <a href=""> |  </a></li>
-  <li> <a href=""> |  </a></li>
+  <li> <a href="https://lookbook.cyberjungles.com/osep-preperation-notes/osep-journey-begin">OSEP Journey Begin! | by cyberjungles.com  </a></li>
+
 </ul>
 
 
