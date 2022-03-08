@@ -114,6 +114,17 @@
   <li> <a href="https://youtu.be/O4pJeXgOJDs"> CompTIA Security+ Full Course | My CS Youtube Channel </a></li>
 </ul>
 
+<h2>Bug Bounty</h2>
+<h3>HackerOne</h3>
+<ul>
+  <li><a href="https://www.hacker101.com/start-here">Hacker101 Academy</a></li>
+
+</ul>
+<h3>BugCrowd</h3>
+<ul>
+  <li><a href="https://www.bugcrowd.com/hackers/bugcrowd-university/">Bugcrowd University</a></li>
+
+</ul>
 
 
 <h1>Cryptography</h1>
@@ -139,8 +150,7 @@
     <li><a href="https://dvwa.co.uk/">Damn Vulnerable Web Application (DVWA)</a></li>
     <li><a href="https://application.security/free/owasp-top-10">Kontra OWASP Top 10 for Web </a></li>
     <li><a href="https://priviahub.com/">Privia Hub Vulnerable machines </a></li>
-    <li><a href=""> </a></li>
-  
+ 
   </ul>
   
   <h2>Defensive Security (Blue Team)</h2>
@@ -148,14 +158,13 @@
     <li><a href="https://letsdefend.io/">LetsDefend </a></li>
     <li><a href="https://cyberdefenders.org/blueteam-ctf-challenges/">CyberDefenders Blue Team CTF Challenges </a></li>
     <li><a href="https://blueteamlabs.online/">Blue Team Labs</a></li>
-    <li><a href=""> </a></li>
+
   </ul>
   
   <h2>Red & Blue</h2>
   <ul>
     <li><a href="https://tryhackme.com/">TryHackMe</a></li>
     <li><a href="https://www.hackthebox.com/">Hack The Box</a></li>
-    <li><a href=""> </a></li>
-    <li><a href=""> </a></li>
+
   </ul>
   
