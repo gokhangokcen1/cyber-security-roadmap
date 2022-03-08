@@ -41,7 +41,7 @@
 </ul>
 
 
-<h1>Penetration Testing</h1>
+<h1>Offensive Security [Penetration Testing]</h1>
 
 <h2>The Cyber Mentor - Heath Adams</h2>
 <ul>
@@ -123,6 +123,13 @@
 <h3>BugCrowd</h3>
 <ul>
   <li><a href="https://www.bugcrowd.com/hackers/bugcrowd-university/">Bugcrowd University</a></li>
+
+</ul>
+
+<h1>Defensive Security </h1>
+</h2>CompTIA Cybersecurity Analyst (CySA+) | (CS0-001) </h2>
+<ul>
+  <li><a href="https://github.com/ReefMeeter/CySA">CySA+ notes | by "ReefMeeter" Github</a></li>
 
 </ul>
 
