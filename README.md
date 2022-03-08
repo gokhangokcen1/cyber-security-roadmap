@@ -151,7 +151,7 @@
 
 
 <h1>Let's Practice!⚔️🛡️</h1>
-  <h2>Offensive Security (Red Tean)</h2>
+  <h2>Offensive Security (Red Team)</h2>
   <ul>
     <li><a href="https://portswigger.net/web-security">Port Swigger Web Security Academy</a></li>
     <li><a href="https://www.vulnhub.com/">VulnHub - Vulnerable machines</a></li>
