@@ -131,4 +131,31 @@
 </ul>
 
 
+<h1>Let's Practice!⚔️🛡️</h1>
+  <h2>Offensive Security (Red Tean)</h2>
+  <ul>
+    <li><a href="https://portswigger.net/web-security">Port Swigger Web Security Academy</a></li>
+    <li><a href="https://www.vulnhub.com/">VulnHub - Vulnerable machines</a></li>
+    <li><a href="https://dvwa.co.uk/">Damn Vulnerable Web Application (DVWA)</a></li>
+    <li><a href="https://application.security/free/owasp-top-10">Kontra OWASP Top 10 for Web </a></li>
+    <li><a href="https://priviahub.com/">Privia Hub Vulnerable machines </a></li>
+    <li><a href=""> </a></li>
+  
+  </ul>
+  
+  <h2>Defensive Security (Blue Team)</h2>
+  <ul>
+    <li><a href="https://letsdefend.io/">LetsDefend </a></li>
+    <li><a href="https://cyberdefenders.org/blueteam-ctf-challenges/">CyberDefenders Blue Team CTF Challenges </a></li>
+    <li><a href="https://blueteamlabs.online/">Blue Team Labs</a></li>
+    <li><a href=""> </a></li>
+  </ul>
+  
+  <h2>Red & Blue</h2>
+  <ul>
+    <li><a href="https://tryhackme.com/">TryHackMe</a></li>
+    <li><a href="https://www.hackthebox.com/">Hack The Box</a></li>
+    <li><a href=""> </a></li>
+    <li><a href=""> </a></li>
+  </ul>
   
