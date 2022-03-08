@@ -156,7 +156,7 @@
   <h2>Defensive Security (Blue Team)</h2>
   <ul>
     <li><a href="https://letsdefend.io/">LetsDefend </a></li>
-    <li><a href="https://cyberdefenders.org/blueteam-ctf-challenges/">CyberDefenders Blue Team CTF Challenges </a></li>
+    <li><a href="https://cyberdefenders.org/blueteam-ctf-challenges/">BlueYard | CyberDefenders Blue Team CTF Challenges </a></li>
     <li><a href="https://blueteamlabs.online/">Blue Team Labs</a></li>
 
   </ul>
