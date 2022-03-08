@@ -1,4 +1,7 @@
 <h1>Cyber Security Free Resources</h1>
+
+`Some certificates include cyber security field more than one so I wrote every certificate for one time. `
+
 <img src="https://github.com/gokhangokcen1/cyber-security-roadmap/blob/main/photos/certifications.png" alt="pauljerimy.com">
  
 <h1>Github Table of Content Using</h1>
