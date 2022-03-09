@@ -34,6 +34,7 @@
   <li> <a href="https://www.netacad.com/courses/networking/networking-essentials">Networking Essentials</a> </li>
   <li> <a href="https://www.netacad.com/courses/networking/ccna-bridging">CCNA Bridging</a> </li>
   <li> <a href="https://www.youtube.com/watch?v=XgmauclCXAU&list=PLEZ7_TnHGBZQBkP1gSkNpq2FMj_6vqyfq&index=10"> Cisco CCNP ENCOR Primer - Full 8+ Hour Course | "Paul Browning" Youtube Channel</a></li> 
+  <li> <a href=" https://skillsforall.com/career-path/cybersecurity">Cybersecurity Career Path (180 hours)</a> </li>
 </ul>
 
 <h2>Other Network Resources</h2>
