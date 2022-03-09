@@ -166,8 +166,21 @@
     <li><a href="https://letsdefend.io/">LetsDefend </a></li>
     <li><a href="https://cyberdefenders.org/blueteam-ctf-challenges/">BlueYard | CyberDefenders Blue Team CTF Challenges </a></li>
     <li><a href="https://blueteamlabs.online/">Blue Team Labs</a></li>
+  <h3>SIEM</h3>
+    <ul>
+      <li><a href="https://education.splunk.com/single-subject-courses">Splunk</a></li>
+
+    </ul>
+   <h3>Other Resources</h3>
+    <ul>
+      <li><a href="https://www.qualys.com/training/">Qualys</a></li>
+
+    </ul>
+  
+  
 
   </ul>
+
   
   <h2>Red & Blue</h2>
   <ul>
