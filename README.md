@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/gokhangokcen1/cyber-security-roadmap/main/photos/certifications.png" alt="pauljerimy.com">
  
 <h1>Github Table of Content Using</h1>
-<img src="https://github.com/gokhangokcen1/cyber-security-roadmap/blob/main/photos/tableofcontent.png" alt="github table of content">
+<img src="https://raw.githubusercontent.com/gokhangokcen1/cyber-security-roadmap/main/photos/tableofcontent.png" alt="github table of content">
 
 <h1>Basic Information Technology and Computer Science Knowledge</h1>
 <h2>CompTIA A+</h2>
