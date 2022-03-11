@@ -66,7 +66,7 @@
 <h2>Certified Ethical Hacker (CEH)</h2>
 <ul>
   <li> <a href="https://www.danielgorbe.com/en/tags/ceh/">Certified Ethical Hacker (CEH) Notes | by danielgorbe.com </a></li>
-  <li> <a href="https://karsyboy.github.io/CEHv10_Ultimate_Study_Guide/">Certified Ethical Hacker (CEH) Notes | by danielgorbe.com </a></li>
+  <li> <a href="https://karsyboy.github.io/CEHv10_Ultimate_Study_Guide/">CEHv10 Ultimate Study Guide | by "karsyboy" Github </a></li>
 
 </ul>
 
