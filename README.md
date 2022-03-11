@@ -171,12 +171,10 @@
   <h3>SIEM</h3>
     <ul>
       <li><a href="https://education.splunk.com/single-subject-courses">Splunk</a></li>
-
     </ul>
    <h3>Other Resources</h3>
     <ul>
       <li><a href="https://www.qualys.com/training/">Qualys</a></li>
-
     </ul>
   
   
