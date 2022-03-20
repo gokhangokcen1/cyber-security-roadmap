@@ -82,6 +82,7 @@
   <li><a href="https://sushant747.gitbooks.io/total-oscp-guide/content/">Total OSCP Guide | by "xapax" Github </a> </li>
   <li><a href="https://guide.offsecnewbie.com/cherrytree-oscp-template">OSCP Templates | by OffSecNewbie.com</a> </li>
   
+ 
 </ul>
 
 <h2>OSWE/AWAE</h2>
