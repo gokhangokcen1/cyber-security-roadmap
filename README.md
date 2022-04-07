@@ -69,6 +69,7 @@
 <ul>
   <li> <a href="https://www.danielgorbe.com/en/tags/ceh/">Certified Ethical Hacker (CEH) Notes | by danielgorbe.com </a></li>
   <li> <a href="https://karsyboy.github.io/CEHv10_Ultimate_Study_Guide/">CEHv10 Ultimate Study Guide | by "karsyboy" Github </a></li>
+  <li> <a href="https://github.com/Samsar4/CEH-v10-Study-Guide/tree/master/modules">CEHv10 Study Guide | by "Samsar4" Github</a></li>
 
 </ul>
 
