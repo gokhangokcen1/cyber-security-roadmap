@@ -10,6 +10,7 @@
 
 <h1>Basic Information Technology and Computer Science Knowledge</h1>
 <h2>CompTIA A+</h2>
+
 <ul>
   <li> <a href="https://www.professormesser.com/free-a-plus-training/a-plus-videos/220-1001-training-course/">Professor Messor 220-1001 Core 1  </a> </li>
   <li> <a href="https://www.professormesser.com/free-a-plus-training/a-plus-videos/220-1002-training-course/">Professor Messor 220-1002 Core 2  </a> </li>
