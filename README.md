@@ -2,7 +2,7 @@
 
 `Some certificates include more than one cyber security field so I wrote every certificate for one time.  `
 
-<img src="https://raw.githubusercontent.com/gokhangokcen1/cyber-security-roadmap/main/photos/certifications.png" alt="pauljerimy.com">
+<img src="https://raw.githubusercontent.com/gokhangokcen1/cyber-security-roadmap/main/photos/certifications.png" alt="pauljerimy.com ">
  
  
 <h1>Github Table of Content Using</h1>
