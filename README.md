@@ -12,10 +12,11 @@
 <h2>CompTIA A+</h2>
 
 <ul>
-  <li> <a href="https://www.professormesser.com/free-a-plus-training/a-plus-videos/220-1001-training-course/">Professor Messor 220-1001 Core 1  </a> </li>
-  <li> <a href="https://www.professormesser.com/free-a-plus-training/a-plus-videos/220-1002-training-course/">Professor Messor 220-1002 Core 2  </a> </li>
+  <li> <a href="https://www.professormesser.com/free-a-plus-training/220-1201/220-1201-video/220-1201-training-course/">Professor Messer 220-1201 Core 1</a> </li>
+  <li> <a href="https://www.professormesser.com/free-a-plus-training/220-1202/220-1202-video/220-1202-training-course/">Professor Messer 220-1202 Core 2</a> </li>
   <li> <a href="https://www.linkedin.com/learning/paths/prepare-for-the-comptia-a-plus-certification-220-1001-and-220-1002"> Prepare for the CompTIA A+ Certification (220-1001 and 220-1002)  </a> </li>
   <li> <a href="https://youtu.be/iYRmydayPFs"> CompTIA A+ Certification Full Video Course for Beginners  "Academic Lesson" Youtube Channel </a></li>
+  <li> <a href="https://www.examwizardz.app/pbq-practice">Free CompTIA A+ PBQ Practice (220-1201 and 220-1202)</a> </li>
 </ul>
 <h2>Fortinet Network Security Expert (NSE) Institute</h2>
 <ul>
